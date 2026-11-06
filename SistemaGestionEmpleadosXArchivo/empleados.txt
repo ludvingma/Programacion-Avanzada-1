@@ -1,0 +1,10 @@
+EMP01;Alexander Maradiaga;Tegucigalpa;Col. Palmira;2000.0
+EMP02;Alexander Maradiaga;Tegucigalpa;Col. Palmira;2000.0
+EMP01;Alexander Maradiaga;Tegucigalpa;Col. Palmira;17500.0
+EMP02;Mario Lopez;San Pedro Sula;Barrio Guamilito;13000.0
+EMP01;Alexander Maradiaga;Tegucigalpa;Col. Palmira;17500.0
+EMP02;Mario Lopez;San Pedro Sula;Barrio Guamilito;13000.0
+EMP01;Alexander Maradiaga;Tegucigalpa;Col. Palmira;17500.0
+EMP02;Mario Lopez;San Pedro Sula;Barrio Guamilito;13000.0
+EMP01;Alexander Maradiaga;Tegucigalpa;Col. Palmira;17500.0
+EMP02;Mario Lopez;San Pedro Sula;Barrio Guamilito;13000.0
